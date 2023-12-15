@@ -5,6 +5,8 @@
   <br>
   Data Science Major @ UCSD
   <br>
+  <a href="https://penelopeking.github.io/">Past Projects</a>
+  •
   <a href="https://www.linkedin.com/in/penelopeking">Linkedin</a>
   •
   <a href="https://github.com/PenelopeKing">GitHub</a>
